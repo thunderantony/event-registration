@@ -140,7 +140,10 @@ left: 127px;
 top: 117px;
 background: url(Logo.png);
 # OUTPUT:
-output output output
+![image](https://github.com/thunderantony/event-registration/assets/149364638/71788dec-2165-4b79-81fc-c495d33bfba2)
+![image](https://github.com/thunderantony/event-registration/assets/149364638/6cb29e55-eb3e-4072-963a-4e466052c1c8)
+![image](https://github.com/thunderantony/event-registration/assets/149364638/b78728ae-bdc8-4a6c-af83-527290c52500)
+
 
 # Result:
 The program to design, develop and deploy a web application for event registration is completed successfully.
